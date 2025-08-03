@@ -16,4 +16,3 @@ const server = app.listen(port, () =>
 );
 
 module.exports = server;
-// Run export vidly_jwtPrivateKey=mySecureKey
